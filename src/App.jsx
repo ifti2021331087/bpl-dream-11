@@ -2,6 +2,7 @@ import { useState,useEffect } from 'react'
 import './App.css'
 import Header from './components/Header/Header'
 import Players from './components/players/players'
+import Footer from './components/footer/footer';
 
 function App() {
   const [players,setPlayers]=useState([]);
@@ -61,6 +62,7 @@ function App() {
         MAX_PLAYERS={MAX_PLAYERS}
         currentlySelectedPlayers={currentlySelectedPlayers}
       ></Players>
+      <Footer></Footer>
     </>
   )
 }
