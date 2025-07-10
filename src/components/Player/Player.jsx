@@ -1,7 +1,7 @@
 import React from 'react';
 import './Player.css'
-const Player = ({player,handlePlayerSelection,isSelected,onSelect,isDisabled}) => {
-    const {id,name, country, role, batting_style, bowling_style, rating, price, image} = player;
+const Player = ({player,isSelected,onSelect,isDisabled}) => {
+    const {name, country, role, batting_style, bowling_style, rating, price, image} = player;
     return (
         <div className={`${isSelected ? 'border-2 border-blue-500' : ''}`}>
             <div class="card bg-base-100 w-90 shadow-sm p-4 border-2">
