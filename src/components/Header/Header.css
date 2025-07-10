@@ -1,8 +1,7 @@
 
 .header-body{
     position: relative;
-    background-color: #131313;
-    background-image: '../../assets/bg-shadow.png';
+    background: linear-gradient(135deg, #1e3c72, #2a5298, #4ecdc4);
     border-radius: 8px;
     margin-top: 110px;
 }

@@ -12,10 +12,10 @@ const Header = ({claimFreeCredit,userCoins}) => {
                     </div>
                     <div>
                         <ul className='flex justify-between gap-20 items-center'>
-                            <li>Home</li>
-                            <li>Fixture</li>
-                            <li>Teams</li>
-                            <li>Schedules</li>
+                            <li><a href="" className="text-gray-600 hover:text-blue-600 font-medium">Home</a></li>
+                            <li><a href="" className="text-gray-600 hover:text-blue-600 font-medium">Fixture</a></li>
+                            <li><a href="" className="text-gray-600 hover:text-blue-600 font-medium">Teams</a></li>
+                            <li><a href="" className="text-gray-600 hover:text-blue-600 font-medium">Schedules</a></li>
                             {/* <button class="btn">Coin</button> */}
                             <div className="flex items-center space-x-4">
                                 <button className="flex items-center space-x-1 px-3 py-1.5 bg-gray-100 rounded-full border border-gray-300 shadow-sm">
