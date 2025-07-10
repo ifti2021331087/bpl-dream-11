@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Top Order Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Medium",
+    "rating": "9/10",
+    "price": "1500000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316605.3.png"
+  },
+  {
+    "id": 2,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Top Order Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": "8.5/10",
+    "price": "1400000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385800/385819.2.png"
+  },
+  {
+    "id": 3,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Middle Order Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": "8.7/10",
+    "price": "1300000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/397100/397148.5.png"
+  },
+  {
+    "id": 4,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Top Order Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": "8.6/10",
+    "price": "1200000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383100/383172.1.png"
+  },
+  {
+    "id": 5,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Middle Order Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Legbreak",
+    "rating": "8.8/10",
+    "price": "1350000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/385700/385794.1.png"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Fast-Medium",
+    "rating": "9/10",
+    "price": "1450000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319700/319748.1.png"
+  },
+  {
+    "id": 7,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Top Order Batsman",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offbreak",
+    "rating": "8.5/10",
+    "price": "1250000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/320400/320448.1.png"
+  },
+  {
+    "id": 8,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Top Order Batsman",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Legbreak",
+    "rating": "8.3/10",
+    "price": "1150000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316500/316589.1.png"
+  },
+  {
+    "id": 9,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper-Batsman",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "N/A",
+    "rating": "8.2/10",
+    "price": "1100000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/316600/316668.1.png"
+  },
+  {
+    "id": 10,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Right-Arm Fast",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "rating": "8.9/10",
+    "price": "1300000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/390900/390954.5.png"
+  },
+  {
+    "id": 11,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Right-Arm Fast",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast",
+    "rating": "8.7/10",
+    "price": "1200000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/319900/319940.2.png"
+  },
+  {
+    "id": 12,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Leg-Spin Bowler",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Legbreak",
+    "rating": "8.6/10",
+    "price": "1150000",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_320,q_50/lsci/db/PICTURES/CMS/383200/383228.1.png"
+  }
+]

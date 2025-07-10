@@ -1,4 +1,17 @@
+
 .header-body{
-    background-image: linear-gradient(to right, #373232, #9c9595, #D3A9B4);
+    position: relative;
+    background-color: #131313;
+    background-image: '../../assets/bg-shadow.png';
     border-radius: 8px;
+    margin-top: 110px;
+}
+.nav-bar{
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    background-color: #f5f5f5;
+    z-index: 1000; 
+    padding: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
